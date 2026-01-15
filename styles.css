@@ -339,7 +339,7 @@ main {
 .professional-page,
 .personal-page,
 .contact-page {
-    background: var(--shamrock-snake);
+    background: var(--black-coffee);
     padding-bottom: var(--spacing-xl);
 }
 
